@@ -50,6 +50,7 @@ This repository contains a Jupyter notebook implementing multiple computer visio
 * OpenCV
 
 **🎥 Results Preview**
+
 ![Detection Preview](res_prev/face_detection1.jpg)
 
 Original Video **[here](https://www.youtube.com/watch?v=W5PRZuaQ3VM)**

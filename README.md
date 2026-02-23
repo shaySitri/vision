@@ -31,12 +31,11 @@ This repository contains a Jupyter notebook implementing multiple computer visio
 * OpenCV
 * MoviePy
 
-** 🎥 Results Preview **
+**🎥 Results Preview**
 
-![Detection Preview](object_detection1.jpg)
+![Detection Preview](res_prev/object_detection1.jpg)
 
-![Detection Preview](object_detection2.jpg)
-
+![Detection Preview](res_prev/object_detection2.jpg)
 ---
 
 ### 2️⃣ Face Recognition & Tracking
@@ -49,6 +48,11 @@ This repository contains a Jupyter notebook implementing multiple computer visio
 
 * face_recognition
 * OpenCV
+
+**🎥 Results Preview**
+![Detection Preview](res_prev/face_detection1.jpg)
+
+Original Video **![here](https://www.youtube.com/watch?v=W5PRZuaQ3VM)**
 
 ---
 
@@ -121,25 +125,3 @@ pip install imageai face_recognition catboost fastai torch torchvision moviepy o
 * Video files are not included due to size constraints.
 * Dataset files are not included (Kaggle required).
 * The project is structured as a demonstration notebook.
-
----
-
-# 🧠 עכשיו שאלה אסטרטגית חשובה
-
-את רוצה:
-
-* שזה יהיה ריפו עצמאי?
-  או
-* להכניס תחת repository של "Computer Vision Coursework"?
-
-לפורטפוליו ML — אני ממליץ ריפו עצמאי.
-
----
-
-אם תרצי, אני יכול גם:
-
-* לנסח bullet חזק לקו"ח מתוך הפרויקט הזה
-* להחליט אם זה נכנס לקו"ח או רק לגיטהאב
-* לשדרג את ה-README לרמה אפילו יותר מרשימה
-
-מה המטרה שלך כרגע — חיזוק ל-ML roles או בעיקר לסגור קצוות בגיטהאב?

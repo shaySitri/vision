@@ -52,7 +52,7 @@ This repository contains a Jupyter notebook implementing multiple computer visio
 **🎥 Results Preview**
 ![Detection Preview](res_prev/face_detection1.jpg)
 
-Original Video **![here](https://www.youtube.com/watch?v=W5PRZuaQ3VM)**
+Original Video **[here](https://www.youtube.com/watch?v=W5PRZuaQ3VM)**
 
 ---
 
@@ -77,21 +77,6 @@ Two approaches were implemented:
 * Fine-tuning pretrained CNN
 * Performance evaluation and visualization
 
----
-
-## 🎥 Results Preview
-
-### Object Detection Example
-
-![Detection Preview](assets/detection_result.png)
-
----
-
-### Facial Attribute Classification
-
-![Confusion Matrix](assets/confusion_matrix.png)
-
----
 
 ## 🚀 Run the Full Notebook
 

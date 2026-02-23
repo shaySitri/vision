@@ -31,6 +31,12 @@ This repository contains a Jupyter notebook implementing multiple computer visio
 * OpenCV
 * MoviePy
 
+** 🎥 Results Preview **
+
+![Detection Preview](object_detection1.jpg)
+
+![Detection Preview](object_detection2.jpg)
+
 ---
 
 ### 2️⃣ Face Recognition & Tracking

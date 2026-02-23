@@ -1,6 +1,6 @@
 # Applied Computer Vision: Video Tracking & Facial Attribute Classification
 
-[![Jupyter Notebook](https://img.shields.io/badge/Notebook-Applied_Computer_Vision.ipynb-orange?logo=jupyter)]((https://colab.research.google.com/drive/1xlWDNxGmS6DW65X3ZL-YowezcdISLX5b?usp=sharing))
+[![Jupyter Notebook](https://img.shields.io/badge/Notebook-Applied_Computer_Vision.ipynb-orange?logo=jupyter)](https://colab.research.google.com/drive/1xlWDNxGmS6DW65X3ZL-YowezcdISLX5b?usp=sharing)
 
 This project demonstrates practical computer vision pipelines implemented using modern deep learning frameworks.
 
